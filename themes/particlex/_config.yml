@@ -32,18 +32,10 @@ menu:
         name: id-card
         theme: solid
         link: /about
-    Archives:
-        name: box-archive
-        theme: solid
-        link: /archives
     Categories:
         name: bookmark
         theme: solid
         link: /categories
-    Tags:
-        name: tags
-        theme: solid
-        link: /tags
 
 # Side info card
 card:
@@ -156,3 +148,10 @@ twikoo:
     region:
     path: location.pathname
     lang:
+
+archive_generator:
+    enabled: true
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
