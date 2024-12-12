@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
-date: {{ date }}
-tags:
+date: <%- date(Date.now()) %>
+tags: 
+categories: 
+mathjax: true
 ---
