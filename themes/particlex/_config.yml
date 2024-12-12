@@ -48,8 +48,6 @@ card:
         Description
         ...
     iconLinks:
-    friendLinks:
-        Argvchs: https://argvchs.github.io
 
 # Footer info
 footer:
@@ -75,7 +73,7 @@ highlight:
 
 # KaTeX math rendering
 math:
-    enable: false
+    enable: true
 
 # Image preview
 preview:

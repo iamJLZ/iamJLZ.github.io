@@ -3,7 +3,6 @@ title: Minimal Rectangular Partition
 date: <%- date(Date.now()) %>
 tags: Geometry
 categories: Misc
-mathjax: true
 ---
 
 # Introduction
