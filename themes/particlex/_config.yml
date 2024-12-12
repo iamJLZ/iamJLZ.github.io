@@ -36,6 +36,10 @@ menu:
         name: bookmark
         theme: solid
         link: /categories
+    Tags:
+        name: tags
+        theme: solid
+        link: /tags
 
 # Side info card
 card:
