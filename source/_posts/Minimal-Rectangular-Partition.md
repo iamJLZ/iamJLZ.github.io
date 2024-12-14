@@ -44,10 +44,7 @@ $P\le N-L+1-H$. For a partition of $B$ consists of $L'$ nonintersecting chords, 
 
 $P\ge N-L+1-H$. Each concave vertex of $B$ is an end of at least one extension. By Lemma 1, we get $P\ge N-L+1-H$.
 
-Then we get
-$$
-P=N-L+1-H
-$$
+Then we get$P=N-L+1-H$.
 
 # Algorithm
 
