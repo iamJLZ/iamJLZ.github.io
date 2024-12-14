@@ -102,7 +102,10 @@ theme: particlex
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/iamJLZ/iamJLZ.github.io
+  branch: main
+  
 
 mathjax:
   tags: none # or 'ams' or 'all'
