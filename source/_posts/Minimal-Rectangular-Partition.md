@@ -50,8 +50,8 @@ Then we get$P=N-L+1-H$.
 
 So the key is to find the maximum number of nonintersecting chords of $B$.
 
-Let $V$ denote the set of chords between concave vertices of $B$. $E=\{
-(v_1,v_2)|v_1\text{ intersects with }v_2, v_1,v_2\in V, v_1\ne v_2\}$. Graph $G=<V,E>$ is a bipartite graph. Let $V_1\subset V$ be the set of cohorizontal chords of $B$, while $V_2=V\setminus V_1$ is the set of covertical chords of $B$. Then $G$ can be represented as $G=<V_1,E,V_2>$.
+Let $V$ denote the set of chords between concave vertices of $B$. $E=$ $\{
+(v_1,v_2)|v_1\text{ intersects with }v_2, v_1,v_2\in V, v_1\ne v_2 \}$ . Graph $G=<V,E>$ is a bipartite graph. Let $V_1\subset V$ be the set of cohorizontal chords of $B$, while $V_2=V\setminus V_1$ is the set of covertical chords of $B$. Then $G$ can be represented as $G=<V_1,E,V_2>$.
 
 So the problem is to find the maximum independent set of bipartite graph $G$.
 
