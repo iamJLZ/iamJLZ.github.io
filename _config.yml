@@ -115,3 +115,9 @@ mathjax:
   append_css: true # add CSS to pages rendered by MathJax
   every_page: false # if true, every page will be rendered by MathJax regardless the `mathjax` setting in Front-matter
 
+archive_generator:
+    enabled: true
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false

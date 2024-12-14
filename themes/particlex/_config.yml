@@ -151,9 +151,3 @@ twikoo:
     path: location.pathname
     lang:
 
-archive_generator:
-    enabled: true
-    per_page: 0
-    yearly: false
-    monthly: false
-    daily: false
