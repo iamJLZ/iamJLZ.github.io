@@ -46,7 +46,8 @@ card:
     enable: true
     description: |
         Description
-        ...
+        - email: zhangjiale@stu.pku.edu.cn
+        - github: https://github.com/iamJLZ
     iconLinks:
 
 # Footer info
